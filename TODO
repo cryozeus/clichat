@@ -1,0 +1,6 @@
+Functionality to add:
+
+# Color coding the users in the room
+# Decouple / refactor the port and IP config
+# allow setting user login and password
+# change main script to run server and init a client for first run
